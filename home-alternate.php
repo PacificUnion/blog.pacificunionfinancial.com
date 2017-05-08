@@ -9,7 +9,7 @@ Template Name: Home Alternate
 
 
 <div class="home-alternate-container" style="">
-	<div class="notes-container" style="height:600px; z-index:10; width:85%; display:inline-block; margin-top:15%; text-align:center;">
+	<div class="notes-container" style="height:600px; z-index:10; display:inline-block; margin-top:15%; text-align:center;">
 	    <img src="http://blog.pacificunionfinancial.com/wp-content/uploads/2016/03/Mortgage-Notes-2.png">
 
 		<p class="notes-title">Mortgage Notes</p>

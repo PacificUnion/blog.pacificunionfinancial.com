@@ -119,6 +119,7 @@ p {
 /*custom after the fact*/
 .notes-container {
 	position: relative;
+	width: 85%;	
 }
 
 .notes-title {
@@ -247,5 +248,11 @@ p {
 		text-transform: uppercase;
 		top: 1.5rem;
 		z-index: 10;
+	}
+}
+
+@media only screen and (min-width: 1154px) and (max-width: 1535px){
+	.notes-container{
+		max-width: 650px
 	}
 }
