@@ -3,6 +3,22 @@ Welcome to Custom CSS!
 
 To learn how this works, see http://wp.me/PEmnE-Bt
 */
+.notes{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.house-note{
+	background-image: url(http://blog.pacificunionfinancial.com/wp-content/uploads/2017/05/house-notes-leaf.png);
+}
+.company-note{
+	background-image: url(http://blog.pacificunionfinancial.com/wp-content/uploads/2017/05/company-notes-leaf.png);
+}
+.key-note{
+	background-image: url(http://blog.pacificunionfinancial.com/wp-content/uploads/2017/05/industry-notes-leaf.png);
+}
+.learning-center{
+	background-image: url(http://blog.pacificunionfinancial.com/wp-content/uploads/2017/05/learning-center-leaf.png);
+}
 
 .category-pacific-union-cares .hero{
 	background-image: url(http://blog.pacificunionfinancial.com/wp-content/uploads/2017/05/pacific-union-cares-bg.jpg);

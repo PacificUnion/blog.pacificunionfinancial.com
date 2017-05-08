@@ -21,7 +21,7 @@ Template Name: Home Alternate
 		<div style="text-align:center;">
 
 			<div class="notes house-note" style="">
-				<div style="float:none;height:17px;background-color:#f1f2f2;"></div>
+				<!-- <div style="float:none;height:17px;background-color:#f1f2f2;"></div> -->
 				<div class="notes-content" style="">
 					<p class="notes-sub-title" style="">HOUSE NOTES</p>
 					<p style="color:#686868;font-size:14px;">Buying or refinancing?<br />Here’s extra info for borrowers.</p>
@@ -29,7 +29,7 @@ Template Name: Home Alternate
 				</div>
 			</div>
 			<div class="notes company-note" style="">
-				<div class="cut-out-arrow" style=""></div>
+				<!-- <div class="cut-out-arrow" style=""></div> -->
 				<div class="notes-content" style="">
 					<p class="notes-sub-title" style="">COMPANY NOTES</p>
 					<p style="color:#686868;font-size:14px;">Peek inside <br />the Pacific Union newsroom.</p>
@@ -37,11 +37,19 @@ Template Name: Home Alternate
 				</div>
 			</div>
 			<div class="notes key-note" style="">
-				<div style="float:none;height:17px;background-color:#f1f2f2;"></div>
+				<!-- <div style="float:none;height:17px;background-color:#f1f2f2;"></div> -->
 				<div class="notes-content" style="">
 					<p class="notes-sub-title" style="">INDUSTRY NOTES</p>
 					<p style="color:#686868;font-size:14px;">Insight and intelligence <br /> for mortgage pros.</p>
 					<a href="http://blog.pacificunionfinancial.com/category/industry-notes/" style="color:#1564a4;font-weight:700;text-decoration:none;font-size:14px;">READ MORE</a>
+				</div>
+			</div>
+			<div class="notes learning-center" style="">
+				<!-- <div style="float:none;height:17px;background-color:#f1f2f2;"></div> -->
+				<div class="notes-content" style="">
+					<p class="notes-sub-title" style="">Learning Center</p>
+					<p style="color:#686868;font-size:14px;">Mortgage education from home loan professionals.</p>
+					<a href="http://blog.pacificunionfinancial.com/category/Learning-Center/" style="color:#1564a4;font-weight:700;text-decoration:none;font-size:14px;">READ MORE</a>
 				</div>
 			</div>
 
