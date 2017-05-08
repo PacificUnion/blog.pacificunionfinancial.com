@@ -48,7 +48,7 @@ Template Name: Home Alternate
 				<!-- <div style="float:none;height:17px;background-color:#f1f2f2;"></div> -->
 				<div class="notes-content" style="">
 					<p class="notes-sub-title" style="">Learning Center</p>
-					<p style="color:#686868;font-size:14px;">Mortgage education from home loan professionals.</p>
+					<p style="color:#686868;font-size:14px;">Mortgage education from <br>home loan professionals.</p>
 					<a href="http://blog.pacificunionfinancial.com/category/Learning-Center/" style="color:#1564a4;font-weight:700;text-decoration:none;font-size:14px;">READ MORE</a>
 				</div>
 			</div>
