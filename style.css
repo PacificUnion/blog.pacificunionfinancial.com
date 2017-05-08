@@ -4423,15 +4423,6 @@ object {
 	display: inline-block;
 }
 
-.house-note{
-	border-right: 1px solid #686868;
-}
-.company-note{
-	
-}
-.key-note{
-	border-left: 1px solid #686868;
-}
 
 .home-alternate-container{
 	width:100%;

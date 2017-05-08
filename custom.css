@@ -136,7 +136,8 @@ p {
 }
 
 .notes-content {
-	height: 190px;
+	height: 200px;
+	/*height: 190px;*/
 	/*background-color: #f1f2f2;*/
 }
 
