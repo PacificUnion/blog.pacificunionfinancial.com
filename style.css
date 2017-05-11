@@ -1510,7 +1510,8 @@ footer.comment-footer:after,
 /* Grid of posts */
 
 .posts {
-	background-color: #242629;
+	/*background-color: #242629;*/
+	background-color: #f1f2f2;
 }
 
 .posts .hentry {
